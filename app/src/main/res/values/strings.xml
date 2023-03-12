@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Lab 4</string>
+    <string name="registerStudents">Register Student</string>
+    <string name="name">Enter Name</string>
+    <string name="academicYear">Enter Academic Year</string>
+    <string name="semester">Select Semester</string>
+    <string name="terms">I agree ti terms and conditions</string>
+    <string name="submit">SUBMIT</string>
+    <string name="cancel">CANCEL</string>
+
+    <string-array name="year">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="semester">
+        <item>Semester 1</item>
+        <item>Semester 2</item>
+    </string-array>
+
+</resources>
